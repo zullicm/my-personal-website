@@ -1,3 +1,10 @@
+h1 {
+    color: rgb(194, 94, 94);
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
 body {
-    background: blue;
+    background: rgb(251, 251, 251);
   }
