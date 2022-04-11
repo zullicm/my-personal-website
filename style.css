@@ -2,7 +2,16 @@ h1 {
     color: rgb(194, 94, 94);
     text-align: center;
     margin-top: 50px;
+    margin-bottom: 20px;
     font-family: 'Courier New', Courier, monospace;
+}
+
+h3 {
+    color: rgb(194, 94, 94);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 10px;
+    margin-bottom: 0px;
 }
 
 body {
