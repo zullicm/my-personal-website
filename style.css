@@ -59,15 +59,36 @@ div.spacer {
     display: none;
 }
 
+#secondMore {
+    display: none;
+}
+
+#thirdMore {
+    display: none;
+}
+
 p {
     width: 25%;
     float: left;
     text-align: center;
-    margin-top: 100px;
-    margin-right: 2.5%;
     font-family: 'Courier New', Courier, monospace;
     color: rgb(194, 94, 94);
     background-color: rgba(103, 103, 103, 0.279);
+    max-height: 400px;
+
+}
+
+p#first {
+    margin-left: 2.5%;
+    overflow-y: scroll;
+}
+
+p#second {
+    overflow-y: scroll;
+}
+
+p#third {
+    margin-right: 2.5%;
 }
 
 body {
